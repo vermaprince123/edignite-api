@@ -1,0 +1,21 @@
+{
+    "name":"Edignite Ngo",
+    "members":45,
+    "starting date":"2/1/2020",
+    "city":"surat",
+    "childrensName":["raja", "radhika", "anjali", "so on ....."],
+    "membersName":["prince", "heer", "vishal", "tejal", "neela", "so on...."],
+    "target":"focus on education",
+    "curent working city":{
+        "cityOne":"surat",
+        "cityTwo":"rajkot",
+        "cityThree":"palwal",
+        "cityFour":"delhi"
+    },
+    "contactDetails":"princevermasrcc@gmail.com",
+    "socialMediaLinks":{
+        "youtube":"Edignite Ngo",
+        "linkedin":"Edignite Ngo",
+        "faceBook":"social Edignite"
+    }
+}
